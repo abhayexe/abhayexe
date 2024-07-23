@@ -2,8 +2,9 @@
 <h1 align="center">Hello, I am Abhay Sharma</h1>
 <h3 align="center">A Frontend developer</h3>
 
+<hr>
+<img  alt="Coding" width="1400"  src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/72/77/fa/7277fa1cf5e5704018188321e4c8fd0e.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhayexe&label=Profile%20views&color=0e75b6&style=flat" alt="abhayexe" /> </p>
