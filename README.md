@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhayexe" alt="abhayexe" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/abhayexe" target="blank"><img src="https://img.shields.io/twitter/follow/abhayexe?logo=twitter&style=for-the-badge" alt="abhayexe" /></a> </p>
+<p align="left"> <a href="https://twitter.com/abhaynoobhaha" target="blank"><img src="https://img.shields.io/twitter/follow/abhaynoobhaha?logo=twitter&style=for-the-badge" alt="abhayexe" /></a> </p>
 
 <hr>
 
