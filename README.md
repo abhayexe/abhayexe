@@ -2,9 +2,6 @@
 <h1 align="center">Hello, I am Abhay Sharma</h1>
 <h3 align="center">A Frontend developer</h3>
 
-<hr>
-<img  alt="Learn" width="600"  src="https://media.licdn.com/dms/image/D4E22AQGdAWYvonQlpw/feedshare-shrink_800/0/1708661004503?e=2147483647&v=beta&t=mIEt7LynvadxUvYchzciOTJk4jd14_c0WR8Wv9Qzl6Q">
-<hr>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhayexe&label=Profile%20views&color=0e75b6&style=flat" alt="abhayexe" /> </p>
