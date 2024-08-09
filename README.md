@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **abhaysharmafalakata@gmail.com**
 
-- ⚡ Beside Coding **I lift 💪**
+- ⚡ Beside Coding **I lift 💪 and cook 🍪**
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
