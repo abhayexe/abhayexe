@@ -25,6 +25,8 @@
 - ⚡ Beside Coding **I lift 💪 and cook 🍪**
 <hr>
 <h3 align="left">Connect with me:</h3>
+<br>
+<img align="right" height=200px src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="leetcode" />
 <p align="left">
 <a href="https://twitter.com/abhayexe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhayexe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhayswarma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhayswarma/" height="30" width="40" /></a>
