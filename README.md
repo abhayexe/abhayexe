@@ -1,27 +1,6 @@
 <!-- <img src="banner2.gif" alt="code" height="400"> -->
 <h1 align="center">Hello, I am Abhay Sharma</h1>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhayexe&label=Profile%20views&color=0e75b6&style=flat" alt="abhayexe" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhayexe" alt="abhayexe" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/abhaynoobhaha" target="blank"><img src="https://img.shields.io/twitter/follow/abhaynoobhaha?logo=twitter&style=for-the-badge" alt="abhayexe" /></a> </p>
-
-<hr>
-
-- 🔭 I’m currently a **B. Tech Undergraduate**
-
-- 🌱 I’m currently learning **React, DSA and Frameworks**
-
-- 🤝 I’m looking for help with **React**
-
-- 💬 Ask me about **Frontend, Java and C++**
-
-- 📫 How to reach me **abhaysharmafalakata@gmail.com**
-
-- ⚡ Beside Coding **I lift 💪 and cook 🍪**
 <hr>
 <h3 align="left">Connect with me:</h3>
 <br>
