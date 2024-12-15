@@ -1,6 +1,5 @@
 <!-- <img src="banner2.gif" alt="code" height="400"> -->
 <h1 align="center">Hello, I am Abhay Sharma</h1>
-<h3 align="center">A Frontend developer</h3>
 
 
 
